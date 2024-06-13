@@ -1,5 +1,5 @@
 # Parameter Optimization
 
-- ### **<a href="www.psrana.com"> Click Here</a> for ppt.**
+- ### **<a href="https://github.com/psrana"> Click Here</a> for ppt.**
 - ### Go the last slide for the assignmen
 
