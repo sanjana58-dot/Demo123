@@ -1,17 +1,15 @@
-# Parameter Optimization
+# Assingment-Multi-Threading
 
-- ### **<a href="https://github.com/psrana"> Click Here</a> for ppt.**
-- ### Go the last slide for the assignmen
-- # 14 Dataset Sources for Machine Learning and Deep Learning
+<img src="https://github.com/psrana/Assingment-Multi-Threading/assets/7460892/69f331af-b987-48f3-967f-92359243bfbd" width="60%" height="60%">
 
-14 free dataset sources for Machine Learning and Deep Learning applications
+<img src=""![image](https://github.com/sanjana58-dot/Demo123/assets/155241755/7da7502e-bf87-478a-baac-dff9b30f7f97)
+"" width="60%" height="60%">
 
-1. Google Dataset Search – A search engine for datasets:   https://datasetsearch.research.google.com/
-2. IBM’s collection of datasets for enterprise applications:  https://developer.ibm.com/exchanges/data/
-3. Kaggle Datasets: https://www.kaggle.com/datasets
-4. Huggingface Datasets – A Python library for loading NLP datasets: https://huggingface.co/datasets
-5. A large list organized by application domain: https://github.com/awesomedata/awesome-public-datasets
-6. Computer Vision Datasets (a really large list): https://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm
-7. Datasetlist – Datasets by domain: https://www.datasetlist.com/
+
+
+
+
+
+
 
 
